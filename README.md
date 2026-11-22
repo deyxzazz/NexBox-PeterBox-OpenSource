@@ -2,7 +2,7 @@
 <img width="1280" height="719" alt="изображение" src="https://github.com/user-attachments/assets/3229da03-aa3e-43f6-990b-e6e5b8ede52c" />
 
 
-Native **C++** multiplayer modification and runtime proxy library (`version.dll`) for **NexBox / PitahBox**, enabling custom networking, server redirection, and live memory/function hooks without modifying original game binaries.
+Native **C++** multiplayer modification and runtime proxy library (`version.dll`) for **NexBox (PitahBox)**, enabling custom networking, server redirection, and live memory/function hooks without modifying original game binaries.
 
 ### ✨ How It Works & Features
 - **Proxy DLL Injection (`version.dll`):** Transparently forwards original Windows `version.dll` exports while initializing the custom multiplayer runtime on game startup.
