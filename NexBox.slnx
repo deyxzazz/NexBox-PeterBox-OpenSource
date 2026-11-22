@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Элементы решения/">
+    <File Path="../ManifestID.txt" />
+  </Folder>
+  <Project Path="PeterBoxV14/PeterBoxV14.vcxproj" Id="91e9e34b-4bc3-4205-8c58-1e3774547236" />
+</Solution>
