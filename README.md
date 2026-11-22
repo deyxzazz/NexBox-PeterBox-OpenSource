@@ -1,4 +1,4 @@
-# 🌐 NexBox (PeterhBox) • C++ Multiplayer Proxy (`version.dll`)
+# 🌐 NexBox (PeterhBox) • C++ Multiplayer Proxy
 <img width="1280" height="719" alt="изображение" src="https://github.com/user-attachments/assets/3229da03-aa3e-43f6-990b-e6e5b8ede52c" />
 
 
